@@ -1,0 +1,17 @@
+This files include the list of users with passwords and roles that they have.
+This is not a configuration file, so changing the password does not affect the system.
+
+----------------------
+user: bob
+password: password
+rols: writer, reader
+
+----------------------
+user: alan
+password: password
+rols: editor, reader
+
+----------------------
+user: jhon
+password: password
+rols: reader
