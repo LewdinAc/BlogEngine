@@ -18,7 +18,7 @@ https://www.postman.com/downloads/
 
 The Base URL to test and use the api is: https://blogengineapi20230227155243.azurewebsites.net
 
-### <b><i>Configuring postman</i></b>
+### Configuring postman
 
 1. Import the swagger.json file into Postman so it can create the APIs. The swagger file is located in the project root folder.
 
@@ -36,7 +36,7 @@ The Base URL to test and use the api is: https://blogengineapi20230227155243.azu
 
 
 # Test Locally
-### <b><i>Prerequisites</i></b>
+### Prerequisites
 
 This is the list of required software needed to run the project and test the different apis running locally and using the Swagger page display after running the project:
 
@@ -49,7 +49,7 @@ This is the list of required software needed to run the project and test the dif
 
 * To connect to the database server, download a client of your preference, you can use the SQL Server Management Studio (SSMS). Also recommend when you finished install the SQL Server Developer version.
 
-### <b><i>Configure the project for running</i></b>
+### Configure the project for running
 
 After installing all the required software and tools, you need to do the following steps before running the application:
 
@@ -65,7 +65,7 @@ After installing all the required software and tools, you need to do the followi
 
 6. Run the project.
 
-### <b><i>Test the project using postman</i></b>
+### Test the project using postman
 
 For the test of the apis in the project, we are going to use POSTMAN, the steps are the same as the one described in the Test Online secction, with the difference that the base Url is the one in the browser for localhost.
 
